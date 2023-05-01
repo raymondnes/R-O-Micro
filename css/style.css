@@ -1,0 +1,43 @@
+
+
+
+
+
+.header {
+    padding: 60px;
+    text-align: center;
+    background: #9dc7bf;
+    color: rgb(217, 59, 59);
+    font-size: 30px;
+  }
+
+.body {
+    background-color: rgba(195, 175, 149,0.2);
+}
+
+
+.mainBox {
+        width: 300px;
+        border: 15px solid rgb(34, 44, 34);
+        padding: 50px;
+        margin: 20px;
+        height: 500px;
+}
+
+
+.imgboard {
+    width: auto;
+    height: auto;
+}
+
+
+
+
+.img {
+    
+    height:450px;
+    width:670px;
+    margin-top: -40px;
+    padding: 20px;
+}
+
